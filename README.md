@@ -8,7 +8,11 @@ Intro to git diff and comparing
 
 ## Deployment
 
+How to deploy
+
 ## Purpose
+
+What is the purpose?
 
 Sample website with plenty of files for demos
 
