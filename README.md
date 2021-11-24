@@ -12,7 +12,7 @@ How to deploy
 
 ## Purpose
 
-What is the purpose?
+The purpose is to checkout how rebase works
 
 Sample website with plenty of files for demos
 
